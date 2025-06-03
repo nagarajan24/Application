@@ -3,3 +3,4 @@
 # This is a new comment being added
 # for testing the merger conflict
 # and to practice the git cmds
+# latest text added
